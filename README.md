@@ -28,6 +28,6 @@ Howto use:
 * when you finshed with your cluster you can clean up with terraform destroy (beware this will delete all of your resources)
 
 
-If you would like to build the provider yourself. Or have a look at the code here is the source code repo:
+If you would like to build the provider yourself. Or have a look at the code here is the source code repository:
 
 https://gitlab.com/furkhat/terraform-provider-metakube
